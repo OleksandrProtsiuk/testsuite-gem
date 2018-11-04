@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-Edit test-config file and use
+Edit test-config file or create custom and use
 
 ## Development
 
